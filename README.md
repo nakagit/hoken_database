@@ -31,4 +31,7 @@ Microsoft Office2000 以降 (Access, Excel, Word)
 これで、保健データベースが使用可能です。  
 
 ---------------------------------------------------------------
+![gakunen_sentaku](https://user-images.githubusercontent.com/10558255/50499228-58ea6900-0a8b-11e9-8b44-576dbc87beb9.jpg)  
+
+
 END
