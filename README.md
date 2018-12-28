@@ -32,6 +32,8 @@ Microsoft Office2000 以降 (Access, Excel, Word)
 
 ---------------------------------------------------------------
 ![gakunen_sentaku](https://user-images.githubusercontent.com/10558255/50499228-58ea6900-0a8b-11e9-8b44-576dbc87beb9.jpg)  
-
-
+![kensaku_sansoku](https://user-images.githubusercontent.com/10558255/50499256-86371700-0a8b-11e9-9ed0-4c27f681976b.jpg)  
+![syukei_shika_ushi](https://user-images.githubusercontent.com/10558255/50499261-8afbcb00-0a8b-11e9-9164-f4885e0a84be.jpg)  
+![tsube_hasseki](https://user-images.githubusercontent.com/10558255/50499262-90f1ac00-0a8b-11e9-813d-b9607bb442b6.jpg)
+---------------------------------------------------------------
 END
